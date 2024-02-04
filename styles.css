@@ -131,3 +131,15 @@ h2 a:hover {
     width: 50%;
 
 }
+
+@media screen and (max-width:1200px) {
+    .sidebar ul {
+        width: 0;
+    }
+    .alltext {
+        margin-left: 0;
+    }
+    .css-container {
+        display: block;
+    }
+}
