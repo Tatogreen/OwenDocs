@@ -132,6 +132,41 @@ h2 a:hover {
 
 }
 
+.owensub {
+    color: black;
+    font-size: 40px;
+    text-shadow: 1px 1px 2px black;
+}
+
+.css-container3 img {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto; 
+    display: block;
+    box-shadow: 2px 2px 4px black;
+    border: 1px solid black;
+}
+
+.css-container3 video {
+    width: 50%;
+    box-shadow: 3px 3px 5px black;
+    border: 1px solid black;
+}
+
+.owne-img {
+    display: flex;
+}
+
+.owlul {
+    list-style-type: square;
+}
+
+.why {
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
 @media screen and (max-width:1200px) {
     .sidebar ul {
         width: 0;
