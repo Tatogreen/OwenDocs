@@ -167,6 +167,21 @@ h2 a:hover {
     font-family: Arial, Helvetica, sans-serif
 }
 
+.toucan-img {
+    width: 30%;
+    border: 2px solid rgb(144, 94, 190);
+    box-shadow: 4px 4px 8px black;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+.lenny {
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 @media screen and (max-width:1200px) {
     .sidebar ul {
         width: 0;
